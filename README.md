@@ -11,3 +11,8 @@
 
 
 ## 2. Arrow Function 
+
+
+## 3. Async Await 
+
+- Syntatical suger wrapped around making promise easier to work with 
